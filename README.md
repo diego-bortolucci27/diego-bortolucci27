@@ -6,7 +6,7 @@
 - 🌱 Cursando Bacharelado em Sistemas de Informação pela Faculdade Descomplica EAD
 - 👯 Conhecimentos em PHP, MYSQL e Laravel
 - 🤔 Conhecimentos em HTML 5, CSS 3, JavaScript e Bootstrap
-- ⚡ Conhecimentos em Linux
+- ⚡ Conhecimentos em Linux e Wordpress
 - 💬 Conhecimentos básicos em edição de imagens em Photoshop e CorelDraw
 - 📫 Email: bortolucci.diego@gmail.com
 - 😄 facebook.com/diego.bortolucci.5/
